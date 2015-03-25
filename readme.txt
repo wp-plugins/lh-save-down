@@ -4,7 +4,7 @@ Donate link: http://lhero.org/lh-save-down/
 Tags: post, posts, wordpress, download, html, text, attachment
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 Save post as text or save post as html. Only post content is saved all other stuff gets discarded.
 

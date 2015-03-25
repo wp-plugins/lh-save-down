@@ -4,7 +4,7 @@ Plugin Name: LH Save down
 Plugin URI: http://lhero.org/plugins/lh-save-down/
 Description: Saves post as text or html attachment, enabling you to download content
 Author: Peter Shaw
-Version: 1.0
+Version: 1.1
 Author URI: http://shawfactor.com
 */
 
